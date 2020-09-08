@@ -1,0 +1,22 @@
+{
+    "symbol": "KBU",
+    "address": "0x705CD52da97679f6d05C04771AEfC42231b014f4",
+    "overview": {
+        "en": "KBUToken is the first multiple platform game contents sharing ecology based on the block chain technology in the world. ",
+        "zh": "KBU是全球首款基于运动消费区块链技术的多平台运动健康内容分享生态。"
+    },
+    "email": "kbutoken@126.com",
+    "website": "https://www.kbu.cc/",
+    "whitepaper": "http://www.kbu.cc/file/kbuwhitepaper.pdf",
+    "state": "NORMAL",
+    "published_on": "2020-05-01",
+    "initial_price": {
+        "ETH": "0.000142857 ETH",
+        "USD": "0.1 USD"
+    },
+    "links": {
+        "twitter": "https://twitter.com/KBUToken",
+        "github": "https://github.com/KBUToken",
+        "facebook": "https://www.facebook.com/token.KBUToken.1"
+    }
+}
